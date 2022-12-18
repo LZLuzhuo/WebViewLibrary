@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/CCCFullWebViewActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CCCFullWebViewActivity"
+        android:textSize="30sp"/>
+
+
+    <TextView
+        android:id="@+id/CCCHeaderWebViewActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CCCHeaderWebViewActivity"
+        android:textSize="30sp"/>
+
+
+    <TextView
+        android:id="@+id/CCCMiniProgramActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CCCMiniProgramActivity"
+        android:textSize="30sp"/>
+
+
+    <TextView
+        android:id="@+id/CCCWordWebViewActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CCCWordWebViewActivity"
+        android:textSize="30sp"/>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#FF6C00</color>
+    <color name="colorgrey">#666666</color>
+    <color name="colorStatusBar">@color/core_colorForeground</color>
+</resources>
